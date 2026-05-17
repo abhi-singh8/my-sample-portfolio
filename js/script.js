@@ -6,3 +6,4 @@ console.log("Hello, World! This is my sample portfolio.");
 document.getElementById("myButton").addEventListener("click", function() {
     alert("Button clicked! This is a sample alert.");
 });
+confirm("Do you want to see more features?");
